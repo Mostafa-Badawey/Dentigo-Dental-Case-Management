@@ -1,9 +1,9 @@
 # Dentigo Documentation
 
-This folder contains project documentation and requirements.
+This folder is reserved for project scope and requirements documents.
 
-Planned documents:
+Expected source files:
 - `MVP.pdf` — MVP scope and change register.
 - `Dentigo_SRS_Shahd(1).pdf` — Software Requirements Specification.
 
-Source PDFs will be added after confirming the exact SRS file.
+> The original PDFs themselves have not been uploaded to this repository yet.
